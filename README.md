@@ -1,4 +1,4 @@
-# Angular 7 + ngbootstrap Türkçe'ye çevirme
+# Angular 7 + ngbootstrap Datepicker Türkçe'ye çevirme
 
 
 npm install --save @ng-bootstrap/ng-bootstrap

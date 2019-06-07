@@ -1,5 +1,12 @@
 # Angular 7 + ngbootstrap Türkçe'ye çevirme
-ngbootstrap datetime picker Turkish
+
+
+npm install --save @ng-bootstrap/ng-bootstrap
+komutu ile ng-bootstap'  iprojemize ekliyoruz.
+
+app.module.ts dosyasında import kısmına 
+imports: [NgbModule]
+ekliyoruz.(Yukarıya referansını eklemeyi unutmayın "import {NgbModule} from '@ng-bootstrap/ng-bootstrap';")
 
 turkishDatePickerI18.ts dosyasını oluşturun.
 
